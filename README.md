@@ -1,4 +1,4 @@
-# Hi, I’m Alexander Remi an IT Professional.
+# Hi, I’m Alexander Remi an IT Professional. - IN Progress
 
 This repository is a collection of hands-on IT support and service desk projects based on workplace scenarios. It shows how I approach troubleshooting, manage tickets, and support users in Windows-based environments.
 
