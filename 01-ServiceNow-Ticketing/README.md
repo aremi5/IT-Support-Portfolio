@@ -20,7 +20,10 @@ Step 1: Instance Setup
 I created a ServiceNow Developer account, requested a Personal Developer Instance, and confirmed the instance was online with admin access.
 
 Screenshot:
-[SS-01: Manage my instance – status online]
+📸 ServiceNow instance verified as online:
+
+![ServiceNow Instance Online](screenshots/01-instance-status-online.png)
+
 
 Step 2: Navigating to the Correct View
 
