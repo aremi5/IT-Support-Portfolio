@@ -33,8 +33,9 @@ Obstacle: Missing fields like Assignment Group and Assigned To
 Solution: Navigated to Service Desk → Incidents to access the full analyst view.
 
 Screenshots:
-[SS-02: Self-Service view]
-[SS-03: Service Desk → Incidents module]
+![Self-Service to Incident View](screenshots/02-self-service-view.png)
+![Self-Service to Incident View](screenshots/03-self-service-view.png)
+
 
 Step 3: Creating an Incident
 
