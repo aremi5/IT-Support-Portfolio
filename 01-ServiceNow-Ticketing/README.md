@@ -34,7 +34,7 @@ Solution: Navigated to Service Desk → Incidents to access the full analyst vie
 
 Screenshots:
 ![Self-Service to Incident View](screenshots/02-self-service-view.png)
-![Self-Service to Incident View](screenshots/03-self-service-view.png)
+![Self-Service to Incident View](screenshots/03-self-service-view-alt.png)
 
 
 Step 3: Creating an Incident
