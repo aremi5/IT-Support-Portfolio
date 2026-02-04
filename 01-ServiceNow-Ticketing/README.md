@@ -61,8 +61,9 @@ I assigned the ticket to the Service Desk group and an available analyst.
 Obstacle: I could not assign the ticket to myself
 Explanation: Assignment is controlled by roles and group membership.
 
-Screenshot:
-[SS-05: Assignment group and assignee set]
+Screenshot:  
+![Assignment group and assignee set](./screenshots/05-assignment-group-and-assignee.png)
+
 
 Step 5: Working the Incident
 
