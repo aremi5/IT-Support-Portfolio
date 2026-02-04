@@ -48,7 +48,11 @@ Short description and detailed issue description
 Impact, Urgency, and initial State (New)
 
 Screenshot:
-[SS-04: New Incident form completed]
+**Screenshot: Creating a new incident**
+ 
+![New Incident Form Completed](./screenshots/04-ServiceNow-Incident-Management.png)
+
+
 
 Step 4: Assignment
 
