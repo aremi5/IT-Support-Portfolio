@@ -85,7 +85,8 @@ Step 6: Resolution and Closure
 After the user confirmed successful login, I resolved the ticket by completing the Resolution Information section.
 
 Screenshot:
-[SS-07: Resolution notes and resolved state]
+![Incident resolution and closure](./screenshots/07b-incident-closed.png)
+
 
 
 Skills Demonstrated
