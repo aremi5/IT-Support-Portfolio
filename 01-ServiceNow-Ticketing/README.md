@@ -77,8 +77,8 @@ Unlocked account and reset password
 
 Advised user to log in with new credentials
 
-Screenshot:
-[SS-06: In Progress state with work notes]
+Screenshot: 
+![Incident in progress with work notes](./screenshots/06-incident-in-progress.png) 
 
 Step 6: Resolution and Closure
 
