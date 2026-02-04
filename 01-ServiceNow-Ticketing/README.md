@@ -63,7 +63,7 @@ Explanation: Assignment is controlled by roles and group membership.
 
 Screenshot:  
 ![Assignment group and assignee set](./screenshots/05-assignment-group-and-assignee.png)
-
+![Assignee lookup and role limitation](./screenshots/05b-assignment-assignee.png)
 
 Step 5: Working the Incident
 
