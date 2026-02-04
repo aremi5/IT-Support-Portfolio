@@ -87,12 +87,6 @@ After the user confirmed successful login, I resolved the ticket by completing t
 Screenshot:
 [SS-07: Resolution notes and resolved state]
 
-Step 7: Verification
-
-I confirmed closure from the Incident list view, verifying the ticket status, assignment, and timestamps.
-
-Screenshot:
-[SS-08: Incident list showing resolved ticket]
 
 Skills Demonstrated
 
